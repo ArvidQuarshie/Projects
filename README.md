@@ -1,9 +1,9 @@
 # Projects
 This is a repo containing the projects that I will work on in android .
 
-1. Band App ----an app that showcases info about the band.
+1. #Band App ----an app that showcases info about the band.
  
-##features of the App
+features of the App
 Video 
 Audio
 TourDates
@@ -11,15 +11,15 @@ Basic Info
 
 
 
-2. A Video Player
+2.# A Video Player
 
 
-#features of the App
+features of the App
 
 Should access an online mp4 files.
 
 
-3. Tv show/Movie app
+3. #Tv show/Movie app
    
    #features of the app
 
