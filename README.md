@@ -21,7 +21,7 @@ Should access an online mp4 files.
 
 3. #Tv show/Movie app
    
-   #features of the app
+   features of the app
 
  Videos/Trailers
  Basic Info About The Site.
