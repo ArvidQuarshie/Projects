@@ -33,7 +33,7 @@ They will be implemented using android libraries , mataerial design and Api's.
 
 ## link to repo : https://github.com/ArvidQuarshie/TvMobile
  
-## contributors : Arvid Quarshie
+## contributors : Arvid Quarshie , Qusai Alfaki
 
   # A Video Player
 
