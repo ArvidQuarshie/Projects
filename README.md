@@ -10,7 +10,23 @@ They will be implemented using android libraries , mataerial design and Api's.
    - Audio
    - TourDates
    - Basic Info
-   -
+   - 
+   ##tools 
+   - mataerial design 
+   - apis
+   -android libraries
+   
+#Tv show/Movie app
+
+##features of the app
+- Videos/Trailers
+- Basic Info About The Movies/Shows
+
+ ##tools 
+   - mataerial design 
+   - apis
+   -android libraries
+
   
 
 
