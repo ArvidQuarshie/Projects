@@ -10,11 +10,11 @@ They will be implemented using android libraries , mataerial design and Api's.
    - Audio
    - TourDates
    - Basic Info
-   - 
+   
    ## tools 
    - mataerial design 
    - apis
-   -android libraries
+   - android libraries
 
   ## contributors : ArvidQuarshie
   
@@ -29,7 +29,7 @@ They will be implemented using android libraries , mataerial design and Api's.
  ## tools 
    - mataerial design 
    - apis
-   -android libraries
+   - android libraries
 
 # link to repo : https://github.com/ArvidQuarshie/TvMobile
  
