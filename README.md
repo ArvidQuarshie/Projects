@@ -18,7 +18,7 @@ They will be implemented using android libraries , mataerial design and Api's.
 
   ## contributors : ArvidQuarshie
   
- ## link to the repo : https://github.com/ArvidQuarshie/BandAppp
+ ### link to the repo : https://github.com/ArvidQuarshie/BandAppp
    
 # Tv show/Movie app
 
@@ -31,9 +31,9 @@ They will be implemented using android libraries , mataerial design and Api's.
    - apis
    - android libraries
 
-## link to repo : https://github.com/ArvidQuarshie/TvMobile
+### link to repo : https://github.com/ArvidQuarshie/TvMobile
  
-## contributors : Arvid Quarshie , Qusai Alfaki
+### contributors : Arvid Quarshie , Qusai Alfaki
 
   # A Video Player
 
@@ -46,7 +46,7 @@ They will be implemented using android libraries , mataerial design and Api's.
 - apis
 - libraries
 
-## link to repo  https://github.com/ArvidQuarshie/VideoPlayer
-## contributor : Arvid Quarshie
+### link to repo  https://github.com/ArvidQuarshie/VideoPlayer
+### contributor : Arvid Quarshie
 
 
