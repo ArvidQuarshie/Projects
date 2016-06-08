@@ -20,7 +20,7 @@ They will be implemented using android libraries , mataerial design and Api's.
   
   link to the repo : https://github.com/ArvidQuarshie/BandAppp
    
-#Tv show/Movie app
+# Tv show/Movie app
 
 ## features of the app
 - Videos/Trailers
