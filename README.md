@@ -11,22 +11,37 @@ They will be implemented using android libraries , mataerial design and Api's.
    - TourDates
    - Basic Info
    - 
-   ##tools 
+   ## tools 
    - mataerial design 
    - apis
    -android libraries
+
+  ## contributors : ArvidQuarshie
    
 #Tv show/Movie app
 
-##features of the app
+## features of the app
 - Videos/Trailers
 - Basic Info About The Movies/Shows
 
- ##tools 
+ ## tools 
    - mataerial design 
    - apis
    -android libraries
+ 
+## contributors : Arvid Quarshie
 
-  
+  # A Video Player
+
+
+## features of the App
+- Should access  online mp4 files.
+-
+## tools
+- mataerial design
+- apis
+- libraries
+
+## contributor : Arvid Quarshie
 
 
