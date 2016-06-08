@@ -17,6 +17,8 @@ They will be implemented using android libraries , mataerial design and Api's.
    -android libraries
 
   ## contributors : ArvidQuarshie
+  
+  link to the repo : https://github.com/ArvidQuarshie/BandAppp
    
 #Tv show/Movie app
 
@@ -28,6 +30,8 @@ They will be implemented using android libraries , mataerial design and Api's.
    - mataerial design 
    - apis
    -android libraries
+
+# link to repo : https://github.com/ArvidQuarshie/TvMobile
  
 ## contributors : Arvid Quarshie
 
@@ -42,6 +46,7 @@ They will be implemented using android libraries , mataerial design and Api's.
 - apis
 - libraries
 
+## link to repo  https://github.com/ArvidQuarshie/VideoPlayer
 ## contributor : Arvid Quarshie
 
 
