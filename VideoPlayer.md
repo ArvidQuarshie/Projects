@@ -1,5 +1,5 @@
-2. A Video Player
+# A Video Player
 
 
-features of the App
-Should access  online mp4 files.
+##features of the App
+- Should access  online mp4 files.
