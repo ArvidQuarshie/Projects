@@ -27,6 +27,7 @@ They will be implemented using android libraries , mataerial design and Api's.
 - Basic Info About The Movies/Shows
 
  ## tools 
+ 
    - mataerial design 
    - apis
    - android libraries
