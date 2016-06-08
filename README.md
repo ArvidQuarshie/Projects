@@ -18,7 +18,7 @@ They will be implemented using android libraries , mataerial design and Api's.
 
   ## contributors : ArvidQuarshie
   
-  link to the repo : https://github.com/ArvidQuarshie/BandAppp
+ ## link to the repo : https://github.com/ArvidQuarshie/BandAppp
    
 # Tv show/Movie app
 
