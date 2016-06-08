@@ -31,7 +31,7 @@ They will be implemented using android libraries , mataerial design and Api's.
    - apis
    - android libraries
 
-# link to repo : https://github.com/ArvidQuarshie/TvMobile
+## link to repo : https://github.com/ArvidQuarshie/TvMobile
  
 ## contributors : Arvid Quarshie
 
