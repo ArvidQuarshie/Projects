@@ -39,15 +39,15 @@ They will be implemented using android libraries , mataerial design and Api's.
   <h1> A Video Player </h1>
 
 
-## features of the App
+<h4> features of the App </h4>
 - Should access  online mp4 files.
 
-## tools
+<h4> tools </h4>
 - mataerial design
 - apis
 - libraries
 
-### link : https://github.com/ArvidQuarshie/VideoPlayer
-### contributor : Arvid Quarshie
+<h5> link : https://github.com/ArvidQuarshie/VideoPlayer </h5>
+<h5>contributor : Arvid Quarshie </h5>
 
 
