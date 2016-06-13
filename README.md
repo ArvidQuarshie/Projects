@@ -3,15 +3,15 @@ This is a repo containing the projects that I will work on.
 
 They will be implemented using android libraries , mataerial design and Api's.
 
-<h5> Band App  that showcases info about a band.</h5>
+<h1> Band App  that showcases info about a band.</h1>
  
-     ## features of the App
+     <h5>features of the App </h5>
    - Video 
    - Audio
    - TourDates
    - Basic Info
    
-   ## tools 
+   <h5> tools </h5>
    - mataerial design 
    - apis
    - android libraries
@@ -20,7 +20,7 @@ They will be implemented using android libraries , mataerial design and Api's.
   
  <h5> link :  https://github.com/ArvidQuarshie/BandAppp </h5>
    
-# Tv show/Movie app
+<h1>Tv show/Movie app</h1>
 
 ##<h4> features of the app </h4>
 - Videos/Trailers
