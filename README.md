@@ -3,7 +3,7 @@ This is a repo containing the projects that I will work on.
 
 They will be implemented using android libraries , mataerial design and Api's.
 
-# Band App  that showcases info about a band.
+<h5> Band App  that showcases info about a band.</h5>
  
      ## features of the App
    - Video 
@@ -16,25 +16,25 @@ They will be implemented using android libraries , mataerial design and Api's.
    - apis
    - android libraries
 
-  ## contributors : ArvidQuarshie
+  <h5> contributors : ArvidQuarshie</h5>
   
- ### link :  https://github.com/ArvidQuarshie/BandAppp
+ <h5> link :  https://github.com/ArvidQuarshie/BandAppp </h5>
    
 # Tv show/Movie app
 
-## features of the app
+##<h4> features of the app </h4>
 - Videos/Trailers
 - Basic Info About The Movies/Shows
 
- ## tools 
+ <h4> tools </h4>
  
    - mataerial design 
    - apis
    - android libraries
 
-### link : https://github.com/ArvidQuarshie/TvMobile
+<h4> link : https://github.com/ArvidQuarshie/TvMobile</h4>
  
-### contributors : Arvid Quarshie , Qusai Alfaki
+<h4> contributors : Arvid Quarshie , Qusai Alfaki </h4>
 
   # A Video Player
 
