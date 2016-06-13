@@ -11,7 +11,7 @@ They will be implemented using android libraries , mataerial design and Api's.
    - TourDates
    - Basic Info
    
-   <h5> tools </h5>
+   <h5> tools  </h5>
    - mataerial design 
    - apis
    - android libraries
@@ -22,7 +22,7 @@ They will be implemented using android libraries , mataerial design and Api's.
    
 <h1>Tv show/Movie app</h1>
 
-##<h4> features of the app </h4>
+<h4> features of the app </h4>
 - Videos/Trailers
 - Basic Info About The Movies/Shows
 
@@ -36,7 +36,7 @@ They will be implemented using android libraries , mataerial design and Api's.
  
 <h4> contributors : Arvid Quarshie , Qusai Alfaki </h4>
 
-  # A Video Player
+  <h1> A Video Player </h1>
 
 
 ## features of the App
