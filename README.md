@@ -32,9 +32,9 @@ They will be implemented using android libraries , mataerial design and Api's.
    - apis
    - android libraries
 
-<h4> link : https://github.com/ArvidQuarshie/TvMobile</h4>
+<h5> link : https://github.com/ArvidQuarshie/TvMobile</h5>
  
-<h4> contributors : Arvid Quarshie , Qusai Alfaki </h4>
+<h5> contributors : Arvid Quarshie , Qusai Alfaki </h5>
 
   <h1> A Video Player </h1>
 
