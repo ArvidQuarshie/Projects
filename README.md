@@ -50,4 +50,21 @@ They will be implemented using android libraries , mataerial design and Api's.
 <h5> link : https://github.com/ArvidQuarshie/VideoPlayer </h5>
 <h5>contributor : Arvid Quarshie </h5>
 
+<h1>Firebase  app</h1>
+
+<h4> features of the app </h4>
+- Store data in a firebase account.
+- Retrieving the data from a firebase account
+
+ <h4> tools </h4>
+ 
+   - mataerial design 
+ 
+   - android libraries
+
+<h5> link : https://github.com/ArvidQuarshie/Ocliney</h5>
+ 
+<h5> contributors : Arvid Quarshie </h5>
+
+
 
