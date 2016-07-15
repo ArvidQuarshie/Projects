@@ -18,7 +18,7 @@ They will be implemented using android libraries , mataerial design and Api's.
 
   <h5> contributors : ArvidQuarshie</h5>
   
- <h5> link :  https://github.com/ArvidQuarshie/BandAppp </h5>
+ <h5> link : https://github.com/ArvidQuarshie/whiplash </h5>
    
 <h1>Tv show/Movie app</h1>
 
