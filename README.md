@@ -83,5 +83,25 @@ They will be implemented using android libraries , mataerial design and Api's.
  
 <h5> contributors : Arvid Quarshie </h5>
 
+<h1>AfricanImprints</h1>
+
+<h4> features of the app </h4>
+- A website that shows fashion of african women.
+
+ <h4> tools </h4>
+   - html and css
+   - foundation
+  
+
+<h5> link :https://github.com/yvonnendutaw/african-imprint-fashion</h5>
+ 
+<h5> contributors : Arvid Quarshie and Yvonne Nduta  </h5>
+
+ 
+
+
+
+
+
 
 
