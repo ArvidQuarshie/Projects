@@ -29,10 +29,10 @@ They will be implemented using android libraries , mataerial design and Api's.
  <h4> tools </h4>
  
    - mataerial design 
-   - apis
+   - picasso
    - android libraries
 
-<h5> link : https://github.com/ArvidQuarshie/TvMobile</h5>
+<h5> link : https://github.com/ArvidQuarshie/picasso</h5>
  
 <h5> contributors : Arvid Quarshie , Qusai Alfaki </h5>
 
