@@ -97,6 +97,20 @@ They will be implemented using android libraries , mataerial design and Api's.
  
 <h5> contributors : Arvid Quarshie and Yvonne Nduta  </h5>
 
+<h1>MusicAlbum</h1>
+
+<h4> features of the app </h4>
+- An app that shows album art of a musician.
+
+ <h4> tools </h4>
+   - html and css
+   - foundation
+  
+
+https://github.com/ArvidQuarshie/MusicApp
+ 
+<h5> contributors : Arvid Quarshie and Elizabeth Kathure  </h5>
+
  
 
 
