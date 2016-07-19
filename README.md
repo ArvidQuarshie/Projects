@@ -103,13 +103,31 @@ They will be implemented using android libraries , mataerial design and Api's.
 - An app that shows album art of a musician.
 
  <h4> tools </h4>
-   - html and css
-   - foundation
+   - Android
+   - Mataerial Design
   
 
 https://github.com/ArvidQuarshie/MusicApp
  
 <h5> contributors : Arvid Quarshie and Elizabeth Kathure  </h5>
+
+
+<h1>CropImage</h1>
+
+<h4> features of the app </h4>
+- An app that allows the user to crop images using their android phone.
+
+ <h4> tools </h4>
+   - Android
+   - Mataerial Design
+  
+
+https://github.com/ArvidQuarshie/CropImage
+ 
+<h5> contributors : Arvid Quarshie</h5>
+
+ 
+
 
  
 
