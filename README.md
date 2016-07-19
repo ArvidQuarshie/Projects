@@ -126,6 +126,22 @@ https://github.com/ArvidQuarshie/CropImage
  
 <h5> contributors : Arvid Quarshie</h5>
 
+
+<h1>SendingMails</h1>
+
+<h4> features of the app </h4>
+- An app that sends emails to users using in-built email system.
+
+ <h4> tools </h4>
+   - Android Studio
+   
+  
+
+https://github.com/ArvidQuarshie/CropImage
+ 
+<h5> contributors : Arvid Quarshie</h5>
+
+
  
 
 
